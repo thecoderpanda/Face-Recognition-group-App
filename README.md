@@ -2,9 +2,6 @@
 
 App used by teachers for taking group attendance in a classroom using Facial Recognition. Makes use of Microsoft Face API for the AI and Google Firebase for data storage.
 
-**Date:** 2nd March to 29th May 2018
-
-![AI Project AttendanceCam-0](https://user-images.githubusercontent.com/4246528/64739082-105ec880-d4bf-11e9-8a34-202c73898a54.jpg)
 
 ## Description: 
 A teacher can take a group picture of the class, and the attendance of all present students gets stored automatically on the cloud! It really is that simple.
@@ -39,7 +36,4 @@ A teacher can take a group picture of the class, and the attendance of all prese
 ![AI Project AttendanceCam-9](https://user-images.githubusercontent.com/4246528/64739091-10f75f00-d4bf-11e9-897e-22815732135c.jpg)
 ### Logout
 ![AI Project AttendanceCam-10](https://user-images.githubusercontent.com/4246528/64739092-10f75f00-d4bf-11e9-8671-e084e3c10bd8.jpg)
-### Uploaded on Google Play Store
-![AI Project AttendanceCam-11](https://user-images.githubusercontent.com/4246528/64739093-10f75f00-d4bf-11e9-863a-e95eba3dc98a.jpg)
-
 
